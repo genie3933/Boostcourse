@@ -1,1 +1,1 @@
-# Boostcourse
+# Boostcamp 데이터 사이언스 강좌를 들으며 정리한 내용입니다.
