@@ -93,14 +93,3 @@ from sales_mart
 group by category, type;
 
 
-
-
-
-
-
-
-
-
-
-
-
